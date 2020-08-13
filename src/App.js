@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Branching !!
+          learn react docker and aws.
         </a>
       </header>
     </div>
